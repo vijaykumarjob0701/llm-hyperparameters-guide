@@ -1,0 +1,7 @@
+# GIF regeneration only. Training / inference snippets in the README
+# are illustrative — they do not require these packages, and this repo
+# does not download model weights.
+matplotlib>=3.8
+numpy>=1.26
+pillow>=10.0
+imageio>=2.34
